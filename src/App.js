@@ -10,7 +10,7 @@ import Update from './components/Update';
 import { Container } from 'reactstrap';
 import { Row, Col } from 'reactstrap';
 import Menus from './components/Menus';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import{ BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import News from './components/News';
 import About from './components/About';
 import Contact from './components/Contact';
