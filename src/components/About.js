@@ -3,7 +3,7 @@ import { Container } from "reactstrap";
 import { Helmet } from "react-helmet";
 import { useEffect } from "react";
 const About = () => {
-   return(
+return(
     <>
     <Helmet>
         <meta charSet="utf-8" />

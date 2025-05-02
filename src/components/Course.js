@@ -22,7 +22,6 @@ return(
 </Helmet> */}
 
   <Card  className="text-center">
-   
     <CardBody>
       <CardSubtitle className="font-weight-bold">{course.title}</CardSubtitle>
       <CardText>{course.description}</CardText>
@@ -35,5 +34,4 @@ return(
   </>
 )
 }
-
 export default Course;
